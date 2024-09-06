@@ -1,1 +1,1 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IllustratedMan-code&show_icons=true&theme=everforest" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IllustratedMan-code&show_icons=true&bg_color=272e33&text_color=d3c6aa&border_color=3c4841&title_color=e69875" alt="IllustratedMan-code" />
